@@ -7,7 +7,7 @@
     },
     "icons":
     {
-        "512": "icon_512.png"
+        "512": "D4DJTHUMBNAIL.jpg"
     },
     "manifest_version": 3,
     "mod":
@@ -17,7 +17,7 @@
         {
             "background_music":
             [
-                "music/D4DJ MUSIC.mp3",
+                "D4DJ MUSIC.mp3"
             ],
             "browser_sounds":
             {
