@@ -1,0 +1,43 @@
+{
+    "name": "D4DJ",
+    "description": "",
+    "developer":
+    {
+        "name": "xxzaniexx"
+    },
+    "icons":
+    {
+        "512": "D4DJ THUMBNAIL.jpg"
+    },
+    "manifest_version": 3,
+    "mod":
+    {
+        "license": "license.txt",
+        "payload":
+        {
+            "background_music":
+            [
+                "D4DJ MUSIC.MP3",
+            ],
+            },
+            "wallpaper":
+            {
+                "D4DJ":
+                {   
+                    "image": "wallpaper/D4DJ VIDEO.MP4",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#757575"
+                },
+                "light":
+                {
+                    "image": "wallpaper/D4DJ VIDEO.MP4",
+                    "first_frame": "wallpaper/D4DJ VIDEO.MP4",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#0B000E"
+                }
+            }
+        },
+        "schema_version": 1
+    },
+    "version": "1.0"
+}
