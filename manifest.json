@@ -161,20 +161,20 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/D4DJ VIDEO.mp4",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#757575"
+                    "image": "wallpaper/D4DJ VIDEO.webm",
+                    "first_frame": "wallpaper/D4DJ THUMBNAIL.jpg",
+                    "text_color": "#",
+                    "text_shadow": "#"
                 },
                 "light":
                 {
-                    "image": "wallpaper/D4DJ VIDEO.mp4",
-                    "first_frame": "wallpaper/first_frame.jpeg",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#0B000E"
+                    "image": "wallpaper/D4DJ VIDEO.webm",
+                    "text_color": "#",
+                    "text_shadow": "#"
                 }
             }
         },
         "schema_version": 1
     },
-    "version": "1.0"
+   "version": "1.0"
 }
